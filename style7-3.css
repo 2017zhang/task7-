@@ -1,0 +1,163 @@
+@charset"utf-8";
+*{
+	max-width:720px;
+	margin:0 auto;
+}
+body{
+	margin:0;
+	padding:0;
+}
+header{
+	position:fixed;
+	margin-top:0px;
+	width:100%;
+	z-index:10; 
+}
+ .nav{
+	 background-color:#29bde0;
+	 margin:0;
+	 top:0; left:0;
+	 height:60px;
+	 border-bottom:1px solid #74d4eb;	 
+ }
+ .nav img{
+	 position:absolute;
+	 transform:scale(.7,.7); 
+ }
+ .nav-img1{
+	 left:3%;
+	 top:10px;
+ }
+ .nav-img2{
+	 right:3%;
+	 top:10px;
+ }
+ .nav p{
+	 text-align:center;
+	 padding:23px 0;
+	 font-size:20px;
+	 color:#fff;	
+ }
+ .content{
+	 position:absolute;
+	 background-color:#29bde0;
+	 padding:0 -120px;
+	 width:100%;
+	 padding-top:0px;
+ }
+
+ .content-p{
+	 
+	 margin:0 auto;
+	 padding:15px 10%;
+	 color:#ffc865;
+	 font-size:17px;
+	 font-weight:bold;
+	 text-indent:38px;
+ }
+ .result-img {
+	width:320px;
+	margin:0 auto;	
+ }
+  .content img{
+	 padding:10px 0;
+	 max-width:80%;
+	 display:block;
+	 font-weight:bold: 
+ }
+ .result-img p{
+	 
+	 margin-top:-43px;
+	 font-size:23px;
+	 color:#fff;
+	 text-align:center;
+ }
+ .content1{
+	 margin:10px auto;
+	 padding:0px 10%;
+	 margin-top:30px;
+	 color:#fff;
+	 font-size:13px;
+	 margin-top:-5px; 	
+ }
+ .content1 p{
+	 padding:0;
+	 margin:0;
+	 font-size:14px;	 
+ }
+ .content1 span{
+	 margin:0 20px 0 0;
+ }
+ .role{
+	 
+	 text-align:left;
+	
+ }
+ /*内容*/
+ .content2{
+	 position:absolute;
+	 margin:0px auto;
+	 padding:0;
+	 margin-top:310px;
+	 font-size:15px;
+	 background-color:white;
+	 width:100%;
+	  margin-top:340px; 
+ }
+ .content2-1{	
+	 color:#d3d3d3;
+	 padding:5px 10%;
+	 border-bottom:1px solid #ccc;	
+ }
+ 
+ .content2-span1{
+	 color:#000;
+	 font-size:17px;
+	 margin:5px 0;
+    display:inline-block;
+ }	 
+  .content2-span2{
+	font-size:13px;
+	float:right;
+	margin:5px 18px;
+ }
+ .space{
+	 height:70px;
+ }
+/*尾部*/
+ footer{
+	 position:fixed;
+	 width:80%;
+	 bottom:0px;
+	 background-color:rgba(153,223,240,.6);
+}
+.footer-text{
+	 padding:15px 10%; 
+ }
+ footer button{
+     width:45%;
+	 height:40px;
+     border:none;
+	 border-radius:5px;
+	 font-size:20px;
+	 color:#fff;	
+ }
+ .flooter-b1{
+	 background-color:#f66f6f;	
+ }
+ .flooter-b2{
+	 background-color:#fbb435;
+	 float:right;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
