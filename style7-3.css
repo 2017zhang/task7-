@@ -126,20 +126,22 @@ header{
 /*尾部*/
  footer{
 	 position:fixed;
-	 width:80%;
+	
 	 bottom:0px;
 	 background-color:rgba(153,223,240,.6);
 }
 .footer-text{
-	 padding:15px 10%; 
+	width:100%;
+	 padding:15px ; 
  }
  footer button{
-     width:45%;
+     width:40%;
 	 height:40px;
      border:none;
 	 border-radius:5px;
 	 font-size:20px;
-	 color:#fff;	
+	 color:#fff;
+     margin-right:10%;	 
  }
  .flooter-b1{
 	 background-color:#f66f6f;	
