@@ -68,15 +68,11 @@
  .content>p{
 	 font-size:15px;	
  }
- .right a{
-	width:20px;
-	height:20px;
-	background-image: url(images/08.png);
-	background-repeat:no-repeat;
-    transform:rotate(226deg);
-	float:right;
-	margin-top:-246px;
-	margin-right:2.5%;
+ .right-img{
+	
+	  width:15px;
+	  float:right;
+	  margin-top:-210px;
  }
  .footer{
 	 text-align:center;
