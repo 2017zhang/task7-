@@ -102,23 +102,21 @@ footer{
 }
  /*内容*/
  .main{
-	 padding:190px 0 90px 0;
-	 background:#29bde0;	 
+       float:left;
+       padding:190px 0 90px 0%;
+       background:#29bde0;
+       text-align:center;
+       margin-left:-.7%;
 }
-
 .main-box{
+        float:left;
 	width: 30%;
+	/*margin:0 1.1%;*/
 	display: inline-block;
-	margin:0 .5%;
-	text-align:center;
 	vertical-align:middle;
-}
-.main-box-1{
-	width: 30%;
-	display: inline-block;
-	margin:0 0.5%;
-	text-align:center;
-	vertical-align:middle;
+	padding:0 .4%;
+	margin:0 1%;
+
 }
  .main-box:hover .sprite{
 	visibility:visible;
@@ -144,7 +142,6 @@ footer{
 	 background:#83b09a;
 	 color:#fff;
 	 margin:0;
-	 
  }
  .sprite{
 	 
