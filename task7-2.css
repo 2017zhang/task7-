@@ -103,7 +103,7 @@ footer{
  /*内容*/
  .main{
        float:left;
-       padding:190px 0.7% 90px 0%;
+       padding:190px 0 90px 0%;
        background:#29bde0;
        text-align:center;
        margin-left:-.7%;
